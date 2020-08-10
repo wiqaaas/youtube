@@ -1,2 +1,2 @@
 # youtube
-Contains Notebook for my youtube channel videos
+Contains Notebooks for my Youtube channel Videos.
